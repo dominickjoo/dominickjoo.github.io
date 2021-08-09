@@ -9,24 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
+"pdf version here (likelier to be more updated)"
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Brown University, 2022, Sc.B. in Mathematics and Computer Science
+* North Hollywood Highly Gifted Magnet, 2018
 
-Work experience
+Technical experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* December 2020: AuxPad, Frontend Engineering Intern
+  * Learned and used React.js in development of notetaking application 
+  * Implemented a text searching component
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2020: Independent Mathematics Research
+  * Investigated questions in low-dimensional topology, advised by Bena Tshishiku
+  * Translated problems from geometry into group- and number-theoretic computations and solved them with Python
+
+* Summer 2017: [Summer Science Program](https://www.summerscience.org/)
+  * Conducted sky observations and determined orbital elements of astronomical bodies for the Minor Planet Center 
+  * Wrote Python scripts and simulations to assist in calculations
+
+Teaching experience
+======
+* Summer 2021: [Summer Science Program](https://www.summerscience.org/), Teaching Assistant
+  * Mentored 36 high school students learning mathematics, physics, programming, and astronomy 
+  * Coordinated logistics and student activities
+
+* Summer 2020: [Summer Program for Applied Rationality and Cognition](https://www.sparc-camp.org/), Junior Counselor
+  * Coordinated activities and facilitated online interactions for high school students
+  * Taught classes in metacognition and linguistics
+
+* Summer 2020: [Euler Circle](https://www.eulercircle.com/), Teaching Assistant
+  * Facilitated problem discussion sessions around higher mathematics for high schoolers
+  * Individually mentored ten students, reviewing and providing feedback on their homework and final papers
+
+* Summer 2019: [Generation Teach](https://www.generationteach.org/), Instructor, Administrator
+  * Designed and led classes for middle schoolers in math, engineering, and logic puzzles
+  * Sped up coordination of logistics (attendance and extracurriculars) from four hours to one hour daily using Excel scripts
+
+* Fall 2019 - Present: Brown Math Department, Teaching Assistant
+  * Multivariable Calculus, Topology, Graph Theory
+  * Led weekly problem-solving and discussion sections
+  * Assisted with curriculum and exam design by evaluating student understanding and writing problems
+
+* 2018 - Present: MIT Educational Studies Program, Volunteer
+  * Developed interactive classes in higher mathematics, physics, and behavioral economics for middle and high school students
+
+* 2013 - Present: Private Tutor
+  * Taught over fifty elementary through college level students competition math and physics by curating problems and eliciting student thinking 
+
 Skills
 ======
 * Skill 1
@@ -36,24 +68,3 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
