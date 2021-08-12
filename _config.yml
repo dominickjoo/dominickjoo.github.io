@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dominick Joo"
 title_separator          : "-"
 name                     : &name "Dominick Joo"
-description              : &description "Brown '22"
+description              : &description ""
 url                      : https://dominickjoo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dominickjoo/dominickjoo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dominick Joo"
   avatar           : "profile.png"
-  bio              : "Mathematician turned software engineer\nBrown '22"
+  bio              : "Brown '22: Mathematician turned software engineer"
   location         : # "Boston, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
