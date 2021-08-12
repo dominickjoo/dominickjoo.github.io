@@ -59,12 +59,15 @@ Teaching experience
 * 2013 - Present: Private Tutor
   * Taught over fifty elementary through college level students competition math and physics by curating problems and eliciting student thinking 
 
+Projects
+======
+* [Star Battle Solver](https://github.com/dominickjoo/star) - Used Python Tkinter to make a solver and GUI for the logic puzzle Star Battle
+
+Achievements and Awards
+======
+* 2021 - Google Code Jam Round 2 Qualifier
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming - Python, C, Javascript (React), Java, Scala
+* Languages - Korean (native), Spanish (intermediate), Chinese (intermediate)
