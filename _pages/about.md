@@ -12,4 +12,4 @@ Hi, I'm Dominick! I spent a long time doing mathematics and teaching, and recent
 
 Within CS, I've been exploring operating systems (and to a lesser extent, design of programming languages). Within mathematics, I'm interested in geometric and algebraic topology.
 
-My [github](https://www.github.com/dominickjoo/)
+My [github](https://www.github.com/dominickjoo/).
