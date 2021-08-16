@@ -14,6 +14,8 @@ redirect_from:
 Education
 ======
 * Brown University, 2022, Sc.B. in Mathematics and Computer Science
+  * Undergraduate: Machine Learning, Computer Systems, Data Structures and Algorithms, Intro Software Engineering, Number Theory, Graph Theory, Functional Analysis
+  * Graduate: Algebra I and II, Algebraic Topology I and II, Algebraic Geometry I, Real Analysis I
 * North Hollywood Highly Gifted Magnet, 2018
 
 Technical experience
@@ -69,5 +71,5 @@ Achievements and Awards
 
 Skills
 ======
-* Programming - Python, C, Javascript (React), Java, Scala
+* Programming - Python, C, Javascript, React, Java, Scala
 * Languages - Korean (native), Spanish (intermediate), Chinese (intermediate)
