@@ -71,5 +71,5 @@ Achievements and Awards
 
 Skills
 ======
-* Programming - Python, C, Javascript, React, Java, Scala
+* Programming - Python, C, Javascript, React, Java, Scala, Git
 * Languages - Korean (native), Spanish (intermediate), Chinese (intermediate)
