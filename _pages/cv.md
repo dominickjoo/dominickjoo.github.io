@@ -20,9 +20,12 @@ Education
 
 Technical experience
 ======
-* December 2020: AuxPad, Frontend Engineering Intern
-  * Learned and used React.js in development of notetaking application 
-  * Implemented a text searching component
+* 
+
+* December 2020: AuxPad, Software Engineering Intern
+  * Used React.js in development of notetaking application 
+  * Implemented a fuzzy text-search component and easy-to-test scoring library
+  * [something else?]
 
 * Summer 2020: [Independent Mathematics Research](https://github.com/dominickjoo/topology)
   * Investigated questions in low-dimensional topology, advised by Bena Tshishiku
