@@ -24,9 +24,10 @@ Technical experience
   * Learned and used React.js in development of notetaking application 
   * Implemented a text searching component
 
-* Summer 2020: Independent Mathematics Research
+* Summer 2020: [Independent Mathematics Research](https://github.com/dominickjoo/topology)
   * Investigated questions in low-dimensional topology, advised by Bena Tshishiku
-  * Translated problems from geometry into group- and number-theoretic computations and solved them with Python
+  * Translated problems from geometry into tractable group- and number-theoretic computations in Python
+  * Used data from Python scripts to formulate and prove upper and lower bounds on the number of invariant circles of surface automorphisms
 
 * Summer 2017: [Summer Science Program](https://www.summerscience.org/)
   * Conducted sky observations and determined orbital elements of astronomical bodies for the Minor Planet Center 
