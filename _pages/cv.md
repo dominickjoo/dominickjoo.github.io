@@ -20,17 +20,19 @@ Education
 
 Technical experience
 ======
-* 
+* Summer 2021: [Teammate Hunt](https://teammatehunt.com/), "Web Development"
+  * "Implemented the webpages for N puzzles, [description]"
+  * "K teams came (last year??)."
 
-* December 2020: AuxPad, Software Engineering Intern
+* December 2020: AuxPad, _Software Engineering Intern_
   * Used React.js in development of notetaking application 
   * Implemented a fuzzy text-search component and easy-to-test scoring library
-  * [something else?]
 
 * Summer 2020: [Independent Mathematics Research](https://github.com/dominickjoo/topology)
   * Investigated questions in low-dimensional topology, advised by Bena Tshishiku
   * Translated problems from geometry into tractable group- and number-theoretic computations in Python
   * Used data from Python scripts to formulate and prove upper and lower bounds on the number of invariant circles of surface automorphisms
+  * "Created open-source library of functions I used"
 
 * Summer 2017: [Summer Science Program](https://www.summerscience.org/)
   * Conducted sky observations and determined orbital elements of astronomical bodies for the Minor Planet Center 
