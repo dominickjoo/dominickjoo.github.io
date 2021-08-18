@@ -65,7 +65,7 @@ Projects
 ======
 * [Star Battle Solver](https://github.com/dominickjoo/star) - Used Python Tkinter to make a solver and GUI for the logic puzzle Star Battle
 
-* [topology.py](https://github.com/dominickjoo/topology) - A library for interacting with the data structures in research related to invariant circles of surface automorphisms
+* [topology.py](https://github.com/dominickjoo/topology) - Developed open-source library for interacting with the data structures in research related to invariant circles of surface automorphisms
 
 * [Teammate Hunt](https://teammatehunt.com/) - Implemented the webpages for several interactive puzzles; expected to release October 2021 (over 500 teams expected to participate)
 
