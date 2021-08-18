@@ -30,6 +30,15 @@ Technical experience
   * Translated problems from geometry into tractable group- and number-theoretic computations in Python
   * Used data from Python scripts to formulate and prove upper and lower bounds on the number of invariant circles of surface automorphisms (see Projects)
 
+  
+Projects
+======
+* [Star Battle Solver](https://github.com/dominickjoo/star) - Used Python Tkinter to make a solver and GUI for the logic puzzle Star Battle
+
+* [topology.py](https://github.com/dominickjoo/topology) - Developed open-source library for interacting with the data structures in research related to invariant circles of surface automorphisms
+
+* [Teammate Hunt](https://teammatehunt.com/) - Implemented the webpages for several interactive puzzles; expected to release October 2021 (over 500 teams expected to participate)
+
 
 Teaching experience
 ======
@@ -59,15 +68,6 @@ Teaching experience
 
 * 2013 - Present: Private Tutor
   * Taught over fifty elementary through college level students competition math and physics by curating problems and eliciting student thinking 
-
-
-Projects
-======
-* [Star Battle Solver](https://github.com/dominickjoo/star) - Used Python Tkinter to make a solver and GUI for the logic puzzle Star Battle
-
-* [topology.py](https://github.com/dominickjoo/topology) - Developed open-source library for interacting with the data structures in research related to invariant circles of surface automorphisms
-
-* [Teammate Hunt](https://teammatehunt.com/) - Implemented the webpages for several interactive puzzles; expected to release October 2021 (over 500 teams expected to participate)
 
 
 Achievements and Awards
