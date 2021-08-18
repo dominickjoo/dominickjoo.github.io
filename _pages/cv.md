@@ -67,7 +67,7 @@ Projects
 
 * [topology.py](https://github.com/dominickjoo/topology) - A library for interacting with the data structures in research related to invariant circles of surface automorphisms
 
-* Summer 2021: [Teammate Hunt](https://teammatehunt.com/) - Implemented the webpages for several interactive puzzles; expected to release October 2021 (over 500 teams expected to participate)
+* [Teammate Hunt](https://teammatehunt.com/) - Implemented the webpages for several interactive puzzles; expected to release October 2021 (over 500 teams expected to participate)
 
 
 Achievements and Awards
