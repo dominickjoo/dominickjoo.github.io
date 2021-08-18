@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-"pdf version here (likelier to be more updated)"
-
 Education
 ======
 * Brown University, 2022, Sc.B. in Mathematics and Computer Science
@@ -30,7 +28,7 @@ Technical experience
   * Translated problems from geometry into tractable group- and number-theoretic computations in Python
   * Used data from Python scripts to formulate and prove upper and lower bounds on the number of invariant circles of surface automorphisms (see Projects)
 
-  
+
 Projects
 ======
 * [Star Battle Solver](https://github.com/dominickjoo/star) - Used Python Tkinter to make a solver and GUI for the logic puzzle Star Battle
