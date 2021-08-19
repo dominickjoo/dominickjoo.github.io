@@ -12,30 +12,30 @@ redirect_from:
 Education
 ======
 * Brown University, 2022, Sc.B. in Mathematics and Computer Science
-  * Undergraduate: Machine Learning, Computer Systems, Data Structures and Algorithms, Intro Software Engineering, Number Theory, Graph Theory, Functional Analysis
-  * Graduate: Algebra I and II, Algebraic Topology I and II, Algebraic Geometry I, Real Analysis I
+  * Computer Science: Machine Learning, Computer Systems, Data Structures and Algorithms, Intro Software Engineering
+  * Mathematics: Algebra I and II, Algebraic Topology I and II, Algebraic Geometry I, Real Analysis I, Number Theory, Graph Theory, Functional Analysis
 * North Hollywood Highly Gifted Magnet, 2018
 * Summer Science Program, 2017
 
 Technical experience
 ======
 * December 2020: AuxPad, _Software Engineering Intern_
-  * Used React.js in development of notetaking application 
+  * Developed note-taking application using React.js
   * Implemented a fuzzy text-search component and easy-to-test scoring library
 
 * Summer 2020: Independent Mathematics Research
   * Investigated questions in low-dimensional topology, advised by Bena Tshishiku
-  * Translated problems from geometry into tractable group- and number-theoretic computations in Python
-  * Used data from Python scripts to formulate and prove upper and lower bounds on the number of invariant circles of surface automorphisms (see Projects)
+  * Proved upper and lower bounds on the number of invariant circles of surface automorphisms
+  * Reduced geometry problems into computational number-theoretic problems in Python (see Projects)
 
 
 Projects
 ======
-* [Star Battle Solver](https://github.com/dominickjoo/star) - Used Python Tkinter to make a solver and GUI for the logic puzzle Star Battle
+* [Star Battle Solver](https://github.com/dominickjoo/star) - Used Python Tkinter to develop a solver and GUI for the logic puzzle Star Battle
 
-* [topology.py](https://github.com/dominickjoo/topology) - Developed open-source library for interacting with the data structures in research related to invariant circles of surface automorphisms
+* [topology.py](https://github.com/dominickjoo/topology) - Developed open-source Python library for interacting with the data structures in research related to invariant circles of surface automorphisms
 
-* [Teammate Hunt](https://teammatehunt.com/) - Implemented the webpages for several interactive puzzles; expected to release October 2021 (over 500 teams expected to participate)
+* [Teammate Hunt](https://teammatehunt.com/) - Implemented interactive puzzles in React.js and Django for puzzlehunt with over 500 participating teams)
 
 
 Teaching experience
@@ -49,7 +49,7 @@ Teaching experience
   * Taught classes in metacognition and linguistics
 
 * Summer 2020: [Euler Circle](https://www.eulercircle.com/), Teaching Assistant
-  * Facilitated problem discussion sessions around higher mathematics for high schoolers
+  * Facilitated algebraic geometry problem discussion sessions for high school math circle
   * Individually mentored ten students, reviewing and providing feedback on their homework and final papers
 
 * Summer 2019: [Generation Teach](https://www.generationteach.org/), Instructor, Administrator
@@ -74,5 +74,5 @@ Achievements and Awards
 
 Skills
 ======
-* Programming - Python, C, Javascript, React, Java, Scala, Git
+* Programming - Python, C, Javascript, React.js, Java, Scala, Git
 * Languages - Korean (native), Spanish (intermediate), Chinese (intermediate)
