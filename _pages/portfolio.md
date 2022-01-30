@@ -4,6 +4,11 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+## [Teammate Hunt](https://teammatehunt.com/) ##
+
+A puzzlehunt by my puzzlehunting team, teammate. Personal contributions in postproduction of individual puzzles.
+
+
 
 ## [Star Battle Solver](https://www.github.com/dominickjoo/star) ##
 
@@ -17,8 +22,3 @@ A solver and GUI for the logic puzzle Star Battle. Made with Python Tkinter.
 
 A library for interacting with the data structures that arose in the course of my topology research
 
-
-
-## [Teammate Hunt](https://teammatehunt.com/) ##
-
-An puzzlehunt written for teams of 8. Expected to release October 2021

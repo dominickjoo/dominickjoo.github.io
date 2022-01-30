@@ -12,13 +12,17 @@ redirect_from:
 Education
 ======
 * Brown University, 2022, Sc.B. in Mathematics and Computer Science
-  * Computer Science: Machine Learning, Computer Systems, Data Structures and Algorithms, Intro Software Engineering
+  * Computer Science: Multiprocessor Synchronization, Software Security, Machine Learning, Computer Systems, Data Structures and Algorithms, Intro Software Engineering
   * Mathematics: Algebra I and II, Algebraic Topology I and II, Algebraic Geometry I, Real Analysis I, Number Theory, Graph Theory, Functional Analysis
 * North Hollywood Highly Gifted Magnet, 2018
 * Summer Science Program, 2017
 
 Technical experience
 ======
+* Fall 2021 - Winter 2022: Ocient, _Software Engineering Intern_
+  * Worked on the Administration and Metadata team
+  * Implemented DDL statements for the Ocient command-line interface
+
 * December 2020: AuxPad, _Software Engineering Intern_
   * Developed note-taking application using React.js
   * Implemented a fuzzy text-search component and easy-to-test scoring library
@@ -31,11 +35,11 @@ Technical experience
 
 Projects
 ======
+* [Teammate Hunt](https://teammatehunt.com/) - Implemented interactive puzzles in React.js and Django for puzzlehunt with over 500 participating teams)
+
 * [Star Battle Solver](https://github.com/dominickjoo/star) - Used Python Tkinter to develop a solver and GUI for the logic puzzle Star Battle
 
 * [topology.py](https://github.com/dominickjoo/topology) - Developed open-source Python library for interacting with the data structures in research related to invariant circles of surface automorphisms
-
-* [Teammate Hunt](https://teammatehunt.com/) - Implemented interactive puzzles in React.js and Django for puzzlehunt with over 500 participating teams)
 
 
 Teaching experience
